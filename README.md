@@ -191,17 +191,3 @@ This has been tried, and it did indeed make the messages much prettier. The bot 
 ### Do you know of any way to relay messages from Discord to Telegram (or the other way) without bots?
 
 No
-
-
-Other questions?
-----------------
-
-If you need any help, [join our group](https://t.me/TediCrossSupport) on Telegram or [our server](https://discord.gg/MfzGMzy) on Discord
-
-Want to donate?
----------------
-
-Cryptocoins of the following types are accepted:
-
-* BTC: 1Gzr9ZyvTiFCPKfy2BshuZgUeFLebAfbFU
-* ETH: 0x9449D54C85C8FdB079e74379d93A9C9fe611981A
